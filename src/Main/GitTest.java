@@ -1,9 +1,10 @@
+package Main;
 
-public class Demo {
+public class GitTest {
 
 	public static void main(String[] args) {
-		System.out.println("HIIiii");
 		// TODO Auto-generated method stub
+
 	}
 
 }
